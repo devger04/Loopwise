@@ -49,5 +49,5 @@ Loopwise uses the following technologies and libraries:
 - **Data Processing & Visualization:** `numpy`, `pandas`, `matplotlib`, `seaborn`, `folium`, `mplleaflet`
 - **Machine Learning:** `dbscan`, `scikit-learn`, `tensorflow`, `pytorch`
 - **Frontend:** `react`, `next.js`
-- **Backend:** `python`, `flask`
-- **Routing & Map Visualization:** `basemap`, `leaflet`
+- **Backend:** `python`
+- **Routing & Map Visualization:** `basemap`, `leaflet`, 'mapbox'
